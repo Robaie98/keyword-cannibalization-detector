@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](). 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dH_el2xLT0wlnqAmJMBubPRd_LggRua8?usp=sharing)
 # E-commerce Keyword Cannibalization Detection
 Keyword cannibalization detector is a machine learning package that quantifies the possibility of reduced search engine optimization (SEO) due to multiple pages having similar main keywords. The implementation is based on the basic data provided by Google Console Search which is available for any website discovered by Google. 
 
@@ -117,7 +117,7 @@ The objective of detecting keyword cannibalization is achieved by accurately ext
 
 ## Analysis Example
 
-The following analysis is performed on Extra's website and by the manual insertion method. Refer to Google Colab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](). 
+The following analysis is performed on Extra's website and by the manual insertion method. Refer to Google Colab Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dH_el2xLT0wlnqAmJMBubPRd_LggRua8?usp=sharing). 
 
 - URL 1         https://www.extra.com/en-sa/computer/laptops/clamshell/lenovo-ideapad-3-core-i5-8gb-256gb-ssd-14-inch-arctic-grey/p/100330466
 - URL 2         https://www.extra.com/en-sa/white-goods/dryers/c/4-404/facet/brandEn:GENERAL%20ELECTRIC
